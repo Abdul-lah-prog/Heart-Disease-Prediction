@@ -28,7 +28,7 @@ These features serve as inputs to the machine learning models to predict the lik
 **Model Training:**
 Initially, six classical machine learning algorithms were trained and evaluated:
 
-**K-Nearest Neighbors (KNN)
+K-Nearest Neighbors (KNN)
 
 Naive Bayes
 
@@ -38,7 +38,7 @@ Random Forest
 
 Support Vector Machine (SVM)
 
-Linear Discriminant Analysis (LDA)**
+Linear Discriminant Analysis (LDA)
 
 Despite good performance, the models achieved a maximum accuracy of 84% on the validation data.
 
