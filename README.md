@@ -5,7 +5,7 @@ This project focuses on developing a robust machine learning-based system to det
 **Dataset & Features:**
 The dataset includes patient-level clinical information such as:
 
-**Age
+Age
 
 Resting Blood Pressure
 
@@ -21,7 +21,7 @@ ST Depression
 
 Thalassemia
 
-And more...**
+And more
 
 These features serve as inputs to the machine learning models to predict the likelihood of heart disease.
 
